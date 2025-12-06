@@ -1,3 +1,9 @@
+Team:
+- Adhitya Prasethio
+- Cristiano Ronaldo
+- Wilsen Oktavianus
+- Yosua Rheinhart Tanzil
+
 Instruksi Install Aplikasi MyKosHub
 
 1. Buka folder "Source Code MyKosHub" yang berisikan file folder Bernama "MyKosHub" yang sudah mengandung seluruh source code dari aplikasi Winforms (.NET) MyKosHub terlebih dahulu.
